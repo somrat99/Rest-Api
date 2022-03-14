@@ -1,0 +1,54 @@
+{
+  "developers": [
+    {
+      "id": 1,
+      "name": "somrat",
+      "email": "somrat@gmail.com",
+      "skillId": "1",
+      "photo": "http://www.team.gsamdani.com/wp-content/uploads/2016/05/tm3.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Abu Sayed",
+      "email": "sayed.sa@gmail.com",
+      "skillId": "3",
+      "photo": "https://qph.fs.quoracdn.net/main-thumb-10684625-200-2tW5a2pQsSlyl41zxMniddxNk95jP3iq.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Nur Amin",
+      "email": "nur.amin@gmail.com",
+      "skillId": "4",
+      "photo": "https://www.hytechsms.com/wp-content/uploads/2019/07/team_01.png"
+    },
+    {
+      "id": 4,
+      "name": "Achem",
+      "email": "devsachem@gmail.com",
+      "skillId": "3",
+      "photo": "https://qph.fs.quoracdn.net/main-thumb-10684625-200-2tW5a2pQsSlyl41zxMniddxNk95jP3iq.jpeg"
+    }
+  ],
+  "skill": [
+    {
+      "id": 1,
+      "name": "Laravel Developer"
+    },
+    {
+      "id": 2,
+      "name": "React Developer"
+    },
+    {
+      "id": 3,
+      "name": "Django Developer"
+    },
+    {
+      "id": 4,
+      "name": "Python Developer"
+    },
+    {
+      "id": 5,
+      "name": "WordPress Developer"
+    }
+  ]
+}
